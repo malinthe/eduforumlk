@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sri Lanka Education Forum",
+    "description": "",
+    "home_page_url": "https://malinthe.github.io/eduforumlk",
+    "feed_url": "https://malinthe.github.io/eduforumlk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sujata Gamage"
+    },
+    "items": [
+    ]
+}

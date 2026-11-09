@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://malinthe.github.io/eduforumlk/sitemap.xml
